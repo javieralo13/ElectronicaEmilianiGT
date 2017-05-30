@@ -6,6 +6,12 @@
 * A static variable is moved up and down a random amount.
 * This technique is also known as "pink noise" and "drunken walk".
 */
+for(int i=0; i<8; i=i+2){
+  
+}
+
+
+
 #define randomWalkLowRange -20
 #define randomWalkHighRange 20
 int stepsize;
