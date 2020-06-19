@@ -1,6 +1,6 @@
 /*
  * Instituto Emiliani Somascos
- * Instructor: Milton Javier Alonzo - Isabel Coloch
+ * Instructor: Milton Javier Alonzo
  * 
  * EJEMPLO DE SECUENCIA NORMAL
  * MOTOR STEPPER 
